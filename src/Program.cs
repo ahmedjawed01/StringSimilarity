@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace PercentageSimilarity
 {
@@ -17,7 +13,6 @@ namespace PercentageSimilarity
                 source = Console.ReadLine();
                 Console.Write("Please enter target string: ");
                 target = Console.ReadLine();
-
 
                 Console.WriteLine("{0}%", source.ToLower().CalculateSimilarity(target.ToLower()) * 100);
             }
