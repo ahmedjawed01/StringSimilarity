@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("PercentageSimilarity")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Percentage Similarity Calculator")]
+[assembly: AssemblyDescription("Sample Console App to calculate Similarity of two strings")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("PercentageSimilarity")]
-[assembly: AssemblyCopyright("Copyright ©  2014")]
+[assembly: AssemblyCompany("Adnan Umer")]
+[assembly: AssemblyProduct("")]
+[assembly: AssemblyCopyright("Copyright ©  2014 Adnan Umer")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
